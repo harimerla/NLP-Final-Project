@@ -34,3 +34,5 @@ https://www.kaggle.com/code/eyadgk/build-a-chatbot-with-bert-eda-vis/notebook#14
 2. Wordcount 
 https://www.datacamp.com/tutorial/wordcloud-python
 
+3. chatgpt references like prompt 'below is my training code. what wrong in this '
+
